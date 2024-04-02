@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "776173116333",
+    "project_id": "musicplayer-1960d",
+    "storage_bucket": "musicplayer-1960d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776173116333:android:b5e612c09b71fbf1bb5f24",
+        "android_client_info": {
+          "package_name": "com.first.musicplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQIbqZ3XP9K2seqMkQ1lfeV6nOsIH62pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
