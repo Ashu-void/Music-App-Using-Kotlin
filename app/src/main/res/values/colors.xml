@@ -6,10 +6,10 @@
 <!--    <color name="netflixblack">#200122</color>-->
 
 
-    <color name="red_black">
-        <gradient
-            android:startColor="@color/#6F0000"
-            android:endColor="@color/#200122"
-            android:angle="90" />
-    </color>
+<!--    <color name="red_black">-->
+<!--        <gradient-->
+<!--            android:startColor="@color/#6F0000"-->
+<!--            android:endColor="@color/#200122"-->
+<!--            android:angle="90" />-->
+<!--    </color>-->
 </resources>
