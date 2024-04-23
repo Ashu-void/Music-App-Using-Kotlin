@@ -4,6 +4,7 @@
     android:layout_height="match_parent"
     xmlns:tools="http://schemas.android.com/tools"
     android:background="@drawable/music_splash"
-    tools:context=".splashActivity">
+    tools:context=".splashActivity"
+    tools:ignore="MissingClass">
 
 </androidx.constraintlayout.widget.ConstraintLayout>

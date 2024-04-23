@@ -48,23 +48,18 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_below="@+id/toolbar">
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:orientation="vertical">
+
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Categories"
                     android:textColor="@color/white"
-                    android:textSize="20sp"/>
-
-                <androidx.recyclerview.widget.RecyclerView
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:id="@+id/categories_recycler_view">
-
-                </androidx.recyclerview.widget.RecyclerView>
+                    android:textSize="20sp" />
 
                 <ScrollView
                     android:layout_width="match_parent"
